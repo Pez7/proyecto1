@@ -1,0 +1,57 @@
+*{
+	margin:0;
+	padding:0;
+}
+#contenedor{
+	border: 1px solid lightgray;
+    margin-top: 258px;
+    padding: 40px 111px;
+    width: 42%;
+    border-radius: 9px;
+}
+#contrato{
+    margin-bottom: 19px;
+    width: 100%;
+    line-height: 2.428571;
+}
+#proveo{
+    width: 100%;
+    line-height: 2.428571;
+}
+.login{
+	padding-left: 82px;
+    margin-left: 63px;
+    font-size: 14px;
+}
+.sign-in{
+    margin-left: -70px;
+}
+.letrao{
+    margin-left: -15px;
+}
+#body2{
+	background-color: lightgray;
+}
+.input-ini{
+    margin-top: 21px;
+}
+.caja{
+    border: 1px solid lightgray;
+    margin-top: 209px;
+    padding-bottom: 26px;
+    width: 23%;
+}
+.boton{
+	margin-top: 10px;
+}
+#forgot{
+    font-size: 10px;
+}
+.caja2{
+    margin-top: 24px;
+    width: 99%;
+    height: 300px;
+}
+#img-foro{
+	width: 100%;
+}
